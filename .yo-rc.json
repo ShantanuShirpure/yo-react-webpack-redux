@@ -1,0 +1,9 @@
+{
+  "generator-react-webpack": {
+    "appName": "yo-react-webpack-redux",
+    "style": "less",
+    "cssmodules": false,
+    "postcss": false,
+    "generatedWithVersion": 4
+  }
+}
